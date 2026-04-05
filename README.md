@@ -20,7 +20,7 @@ O ambiente principal baseia-se em **Python 3.12+**.
 
 1. **Clone o repositório:**
    ```bash
-   git clone <sua-url-aqui>
+   git clone https://github.com/Maikoandre/Data-Science-Projects.git
    cd Data-Science-Projects
    ```
 
@@ -34,15 +34,6 @@ O ambiente principal baseia-se em **Python 3.12+**.
 
 3. **Gerenciamento e Dependências:**
    Verifique na raiz do projeto (ou dentro da pasta específica de cada projeto) os requisitos específicos. A raiz inclui um `pyproject.toml` base.
-
-## 🛠️ Como adicionar novos projetos (Guia Interno)
-
-Sempre que for iniciar um novo estudo ou projeto, siga estas etapas para manter o repositório organizado:
-
-1. **Crie uma nova pasta** para o projeto (ex: `Análise de Vendas Varejo`).
-2. **Atualize a tabela** na seção [Estrutura do Repositório](#-estrutura-do-repositório) com o link para a nova pasta e uma breve descrição.
-3. Se o projeto demandar pacotes isolados muito específicos, é recomendável incluir um `requirements.txt` ou cuidar das dependências globalmente via o `pyproject.toml` raiz.
-4. **Crie um arquivo `README.md` individual** dentro da nova pasta descrevendo o que o projeto resolve, os dados usados e os resultados obtidos.
 
 ---
 *Repositório em constante atualização.* 🧑‍💻📈
